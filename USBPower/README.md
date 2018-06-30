@@ -6,6 +6,12 @@
 
 This power supply is a low cost and low profile way to power a small lunchbox eurorack system. It is also a useful power supply for testing newly built modules outside of a larger system, especially if you must commute to your workspace.
 
-PCBs are available through [Modular Addict](https://modularaddict.com/mmi-usbpower-pcb)
+PCBs are available through:
+* [Modular Addict](https://modularaddict.com/mmi-usbpower-pcb)
+
+* [Pusherman](https://pushermanproductions.com/product/mmi-modular-usb-power-supply/) (this is the best spot to pick one up if you live outside the USA)
+
+* [Directly from me!](https://reverb.com/item/13361422-mmi-modular-eurorack-usb-power-supply-pcb-only)
+
 
 ![](https://modularaddict.com/media/catalog/product/cache/1/image/1100x1100/9df78eab33525d08d6e5fb8d27136e95/m/a/max-usbpow-pcb.jpg)
