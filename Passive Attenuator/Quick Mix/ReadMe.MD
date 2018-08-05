@@ -7,4 +7,6 @@ Quick Mix is a 5 channel passive attenuator and mixer designed to fit as much as
 
 It does this by making use of a modified Thonkiconn jack footprint. This footprint requires the ground pin to be bent inwards and to the side, allowing jacks to fit closer together.
 
+Panel designed by me and is my first attempt at a consistent design language between multiple modules.
+
 ![Imgur](https://i.imgur.com/gcWXdGF.jpg?1)
