@@ -1,7 +1,5 @@
 # Two Nine Five
 
-**Two Nine Five is currently in prototyping stages. The data here is to help beta testers with their builds. Nothing is guaranteed to work just yet.**
-
 * Eurorack adaptation of the Buchla Model 295 10-channel comb filter
 * 10 LED sliders control the amplitude of each band sent through the SUM output
 * Individual channel outputs to the right of each slider
