@@ -1,5 +1,7 @@
 # Two Nine Five
 
+**I am temporarily removing gerbers and .brd file while I figure out automated assembly. I will keep the schematic up and create build files to assist DIYers in the mean time.**
+
 * Eurorack adaptation of the Buchla Model 295 10-channel comb filter
 * 10 LED sliders control the amplitude of each band sent through the SUM output
 * Individual channel outputs to the right of each slider
