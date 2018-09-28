@@ -17,6 +17,18 @@ In addition, please heed the warning on the front of the PCB and place the trim 
 
 As for the illuminated slide pots, there's a few things to consider. They are acting as cross faders so any value between 10k and 100k should work just fine. They are taking an audio signal so ideally you want audio response, but linear response will function just fine. Ideal shaft length is 15mm but I have used 10mm successfully, the tops are just a tad close to the panel. You do not want a center detent if you can help it. The sliders I used can be found on Mouser: 652-PTL20-10R0-103B2
 
+**How to tune your 295**
+
+* Using a VU meter, set a sine wave out to -6.5dB
+* Input that sine wave to the 295 filter
+* Set the frequency of the wave to match the frequency of the band you'd like to tune (e.g. 3000 Hz)
+* Slide the potentiometer of the band you want to tune all the way to the right
+* Turn the 20k trim pot until the SUM output of the 295 filter is at 0 dB
+* Then scan your sine wave around your desired frequency and note where the VU meter peaks
+* Adjust 100k trim pot until the peak happens as close to the desired frequency as possible
+* Adjust the 20k trim pot a second time so the output is back at 0db as the 100k trim pot has an effect on amplitude.
+* Repeat for each band
+
 PCB and panel designed by me
 
 Original schematic by Don Buchla
