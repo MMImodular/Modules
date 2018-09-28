@@ -15,6 +15,8 @@ It is absolutely imperative that you solder R13, R39, R17, R37, R19, R35, R25, a
 
 In addition, please heed the warning on the front of the PCB and place the trim pots on the back of the module. There is not enough space between the PCB and panel for the trim pots and having them on the back allows for you to tune everything without taking the panel off. I kept the silk screen for the pots on the top side in order to avoid cluttering the bottom silkscreen layer.
 
+As for the illuminated slide pots, there's a few things to consider. They are acting as cross faders so any value between 10k and 100k should work just fine. They are taking an audio signal so ideally you want audio response, but linear response will function just fine. Ideal shaft length is 15mm but I have used 10mm successfully, the tops are just a tad close to the panel. You do not want a center detent if you can help it. The sliders I used can be found on Mouser: 652-PTL20-10R0-103B2
+
 PCB and panel designed by me
 
 Original schematic by Don Buchla
