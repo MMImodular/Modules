@@ -4,6 +4,6 @@
 
 Attenumults allows you to control a number of parameters at once in different directions and magnitudes, a useful utility module and a perfect complement to Maths or Rampage.
 
-PCBs and panels are available at [Modular Addict](https://modularaddict.com/mmi-attenumults-pcbpanel)
+PCB/panel sets are available at [Modular Addict](https://modularaddict.com/mmi-attenumults-pcbpanel) and [Pusherman](https://pushermanproductions.com/product/bam-attenumult-unity-mix/)
 
 ![Image#1](https://modularaddict.com/media/catalog/product/cache/1/image/1100x1100/9df78eab33525d08d6e5fb8d27136e95/m/a/max-attmlt-pan.jpg)
