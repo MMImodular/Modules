@@ -1,6 +1,8 @@
-# Two Nine Five
+**If you would like to build this project yourself, PCBs can be purchased through [Pusherman](https://pushermanproductions.com/product/mmi-modular-two-nine-five-buchla-comb-filter-pcb-14hp-black-gold-aluminium-panel/)**
 
-**I am temporarily removing gerbers and .brd file while I figure out automated assembly. I will keep the schematic up and create build files to assist DIYers in the mean time.**
+**If you would like to purchase a pre-built unit, keep an eye on my [Reverb shop](https://reverb.com/shop/mmi-modular)**
+
+# Two Nine Five
 
 * Eurorack adaptation of the Buchla Model 295 10-channel comb filter
 * 10 LED sliders control the amplitude of each band sent through the SUM output
