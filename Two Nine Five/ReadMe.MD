@@ -1,4 +1,4 @@
-**If you would like to build this project yourself, PCBs can be purchased through [Pusherman](https://pushermanproductions.com/product/mmi-modular-two-nine-five-buchla-comb-filter-pcb-14hp-black-gold-aluminium-panel/)**
+**If you would like to build this project yourself, PCBs can be purchased through [Pusherman](https://pushermanproductions.com/product/mmi-modular-two-nine-five-buchla-comb-filter-pcb-14hp-black-gold-aluminium-panel/) or [Modular Addict](https://modularaddict.com/mmi-259-pcbpanel)**
 
 **If you would like to purchase a pre-built unit, keep an eye on my [Reverb shop](https://reverb.com/shop/mmi-modular)**
 
