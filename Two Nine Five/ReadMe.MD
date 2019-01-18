@@ -41,8 +41,9 @@ As for the illuminated slide pots, there's a few things to consider. They are ac
 * Slide the potentiometer of the band you want to tune all the way to the right
 * Tune your sine wave to match the frequency of the band you would like to tune
 * Turn the appropriate 20k trim pot until your output is at 0dB
-* It may help to monitor your output with an oscilloscope to see how your output clips
 * Repeat for each band
+
+It may help to monitor your output with an oscilloscope to see how your output clips. Note that each band clips asymmetrically. This can cause some interesting harmonics to show up so feel free to tune your filter to taste, no need to follow this guide to a T.
 
 ---
 
