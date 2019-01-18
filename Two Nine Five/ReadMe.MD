@@ -25,14 +25,23 @@ As for the illuminated slide pots, there's a few things to consider. They are ac
 
 **How to tune your 295**
 
-* Using a VU meter, set a sine wave out to -6.5dB
-* Input that sine wave to the 295 filter
-* Set the frequency of the wave to match the frequency of the band you'd like to tune (e.g. 3000 Hz)
+*Tuning Frequency*
+
+* Turn each 20k trim pot so that every band has maximum gain (some bands will self-oscillate, others will not)
+* Patch white noise to **IN** and monitor **SUM** with a FFT-capable spectrum analyzer or parametric/graphic EQ.
 * Slide the potentiometer of the band you want to tune all the way to the right
-* Turn the 20k trim pot until the SUM output of the 295 filter is at 0 dB
-* Then scan your sine wave around your desired frequency and note where the VU meter peaks
-* Adjust 100k trim pot until the peak happens as close to the desired frequency as possible
-* Adjust the 20k trim pot a second time so the output is back at 0db as the 100k trim pot has an effect on amplitude.
+* Turn the appropriate 100k trim pot until the peak is centered on the desired frequency
+* Repeat for each band
+
+*Tuning Gain/Q*
+
+* Using a sine wave oscillator, patch the wave directly to your output. Set the gain between your modular and a VU meter so that the output is now at 0dB
+* Leaving the output gain unchanged, move the sine wave to an attenuator and attenuate it down to -6.5dB
+* Patch this attenuated sine wave to **IN** then patch **SUM** to your output
+* Slide the potentiometer of the band you want to tune all the way to the right
+* Tune your sine wave to match the frequency of the band you would like to tune
+* Turn the appropriate 20k trim pot until your output is at 0dB
+* It may help to monitor your output with an oscilloscope to see how your output clips
 * Repeat for each band
 
 ---
