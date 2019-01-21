@@ -25,17 +25,20 @@ As for the illuminated slide pots, there's a few things to consider. They are ac
 
 **How to tune your 295**
 
+Note: You may want to keep the volume down for this or else you might give yourself a headache.
+
 *Tuning Frequency*
 
 * Turn each 20k trim pot so that every band has maximum gain (some bands will self-oscillate, others will not)
-* Patch white noise to **IN** and monitor **SUM** with a FFT-capable spectrum analyzer or parametric/graphic EQ.
+* Patch white noise to **IN** and monitor **SUM** with a FFT-capable spectrum analyzer or parametric/graphic EQ
 * Slide the potentiometer of the band you want to tune all the way to the right
 * Turn the appropriate 100k trim pot until the peak is centered on the desired frequency
 * Repeat for each band
 
 *Tuning Gain/Q*
 
-* Using a sine wave oscillator, patch the wave directly to your output. Set the gain between your modular and a VU meter so that the output is now at 0dB
+* Using a sine wave oscillator, patch the wave directly to your output 
+* Set the gain between your modular and a VU meter (usually within a DAW) so that the output is now at 0dB
 * Leaving the output gain unchanged, move the sine wave to an attenuator and attenuate it down to -6.5dB
 * Patch this attenuated sine wave to **IN** then patch **SUM** to your output
 * Slide the potentiometer of the band you want to tune all the way to the right
